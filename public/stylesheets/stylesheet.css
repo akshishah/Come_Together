@@ -1,0 +1,13 @@
+form {
+    display: flex;
+    align-items: center;
+  }
+  
+  textarea {
+    width: 90%;
+    resize: none;
+  }
+  
+  #submit {
+    width: 10%;
+  }
